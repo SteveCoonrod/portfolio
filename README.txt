@@ -6,3 +6,9 @@ My name is Steve Coonrod, I am a Software Developer with a solid foundation in C
 As of May 2020 this repository shows demonstration code from my studies in the Software Development program at Kirkwood Community College.
 
 This portfolio includes the following files:
+
+Capstone_2020 --This is a folder containing the contents of my Software Development Capstone project
+
+Capstone_Overview.docx	--This is a brief description of what the Capstone project was and my role within it
+
+
